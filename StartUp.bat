@@ -1,0 +1,1 @@
+TYPE Inputs.txt | python Week3JamesNoonanAdv.py > Output.txt

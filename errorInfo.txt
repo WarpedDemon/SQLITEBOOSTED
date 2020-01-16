@@ -1,0 +1,108 @@
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 73, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 73, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 165, in Add
+    assert(addition != "")
+AssertionError
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 165, in Add
+    assert(addition != "")
+AssertionError
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 165, in Add
+    assert(addition != "")
+AssertionError
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 48, in MainLoop
+    self.Add()
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 164, in Add
+    assert(addition != "")
+AssertionError
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 74, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 48, in MainLoop
+    self.Add()
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 164, in Add
+    assert(addition != "")
+AssertionError
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 68, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 67, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists
+Traceback (most recent call last):
+  File "D:/PycharmWorkEnv/Python semester redo/Week3JamesNoonanAdv/Week3JamesNoonanAdv.py", line 66, in CreateLocalDatabase
+    """CREATE TABLE movies ( Id INT, title VARCHAR(25), PRIMARY KEY (Id) )""")
+sqlite3.OperationalError: table movies already exists

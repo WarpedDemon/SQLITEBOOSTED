@@ -1,0 +1,30 @@
+Database Files: movies.db 
+Choose database name: table movies already exists
+-- no items are in the list --
+[A]dd [Q]uit
+Please enter an option: Please enter a new entry: 1: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: Please enter a new entry: 1: About a boy
+2: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: Please enter a new entry: 1: About a boy
+2: Alain
+3: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: Press any key to continue . . . 
+ERROR: invalid choice--enter one of 'AaDdSsQq'
+1: About a boy
+2: Alain
+3: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: Please enter a number to delete: 1: About a boy
+2: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: 1: About a boy
+2: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: Please enter a new entry: 1: About a boy
+2: Four weddings and a funeral
+3: Love Actaully
+[A]dd [D]elete [S]ave [Q]uit
+Please enter an option: unsaved changes (y/n): 
